@@ -10,7 +10,6 @@ h1 {
 	text-transform: uppercase;
 	text-align: center;
 	padding-top: 100px;
-	letter-spacing: .1em;
 }
 
 h1:after{
@@ -35,4 +34,9 @@ p{
 .papeldeparede{
 	background: url("../img/wallhaven-dgzj9o.jpg") no-repeat center;
 	height: 1080px;
+}
+
+.video{
+	text-align: center;
+	margin-top: 60px;
 }
